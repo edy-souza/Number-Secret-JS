@@ -5,10 +5,10 @@ adivinhar um número secrto, gerado aleatoriamente entre 1 e 100. O jogador faz 
 
 ## Tecnologia Utilizadas
 
-🚀 JavaScript
-🚀 CSS
-🚀 HTML
-🚀 Figma
+🚀 JavaScript <br>
+🚀 CSS <br>
+🚀 HTML <br>
+🚀 Figma <br>
 🚀 Git 
 
 ## Acesse o Jogo

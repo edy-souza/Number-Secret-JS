@@ -11,6 +11,13 @@ adivinhar um número secrto, gerado aleatoriamente entre 1 e 100. O jogador faz 
 🚀 Figma <br>
 🚀 Git 
 
+
+
+
+
+https://github.com/user-attachments/assets/8823e29d-424f-4f5d-80de-7e65b8cf3dca
+
+
 ## Acesse o Jogo
 
 Você pode acessar o jogo através do seguinte link:
